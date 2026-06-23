@@ -1,0 +1,17 @@
+header {
+    background-color: #183C63;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    background-color: white;
+    color: #183C63;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+}
